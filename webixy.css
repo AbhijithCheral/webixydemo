@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    width: 100%;
+    position: relative;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+}
+.list-item{
+    display: inline;
+    margin: 0px 10px;
+    text-align: center;
+    
+
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.link:hover{
+    color: springgreen;
+    text-decoration: underline;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-family: "Anek Devanagari", sans-serif;
+
+}
+.logo2{
+    height: 60px;
+    width: 200px;
+    padding-left: 550px;
+}
+.heading2{
+    text-align: center;
+    color: gray;
+    font-family: "Quicksand", sans-serif;
+
+}
+
+.images{
+    height: 130px;
+    width: 150px;
+    margin: 10px;
+    padding: 1px;
+    padding-top: 100px;
+
+}
+.side-image{
+    height: 150px;
+    width: 150px;
+    right: 50%;
+
+}
+.header2{
+    margin: 8% 1% 0% 1%;
+    background-color: rgb(237, 250, 250);
+
+}
+.section-head{
+    text-align: center;
+}
+.second-h4{
+    padding-top: 30px;
+    color: darkgrey;
+}
+.spkt-image{
+    width: 100px;
+    height: 10px;
+}
+.sp-image{
+    width: 750px;
+    height: 300px;
+    padding-top: 40px;
+    border-radius: 70px;
+    
+    
+}
+.dwnld{
+    text-decoration: none;
+    color: aqua;
+    background-color: rgb(251, 253, 253);
+    border-radius: 10px;   
+    font-weight: bold;   
+     padding: 11px;
+    position: absolute;
+    left: 400px;
+    bottom: 690px;
+    
+}
+.dwld-heading{
+    position: absolute;
+    left: 800px;
+    top: 800px;
+
+}
+.dwld-heading2{
+    color: aqua;
+    position: absolute;
+    left: 800px;
+    top: 825px;
+
+}
+.sf-image{
+    width: 750px;
+    height: 300px;
+    padding-top: 40px;
+    border-radius: 70px;
+    
+
+}
+.dwld-heading3{
+    position: absolute;
+    left: 800px;
+    top: 1150px;
+
+}
+.dwld-heading4{
+    color: aqua;
+    position: absolute;
+    left: 800px;
+    top: 1110px;
+
+}
+.footer{
+    background-color: rgb(72, 218, 172);
+    height: 200px;
+    width: 100%;
+}
+.f-logo{
+    height: 60px;
+    width: 200px;
+    padding-left: 20px;
+
+}
+.f-peragraph{
+    padding-left: 20px;
+    color: aliceblue;
+}
+.icon-collection{
+    display: flex;
+    margin-top: 40px;
+    
+    
+}
+.icons{
+ 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 5px;
+   }
+
+   .support{
+    color: aliceblue;
+    position: absolute;
+    left: 500px;
+    bottom: 90px;
+   }
+   .contactus{
+    color: aliceblue;
+    position: absolute;
+    left: 950px;
+    bottom: 100px;
+   }
+   
+   
+
+
